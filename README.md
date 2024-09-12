@@ -4,7 +4,7 @@
 This machine learning project involves using unsupervised learning techniques to identify distinct customer segments from demographic data. The goal is to segment the general population of Germany into groups with similar characteristics and compare these clusters with the customer data of a mail-order sales company. By identifying clusters over-represented in the customer data, we can gain insights into the core customer base and target marketing campaigns more effectively.
 
 ## Technologies Used
-- **Python#**: Programming language used for coding and running the machine learning models and analyses.
+- **Python**: Programming language used for coding and running the machine learning models and analyses.
 - **Pandas and NumPy**: For data manipulation, cleaning, and analysis.
 - **Matplotlib & Seaborn**: For visualizing data and clustering results.
 - **Scikit-learn**: For implementing unsupervised learning algorithms and preprocessing techniques.
